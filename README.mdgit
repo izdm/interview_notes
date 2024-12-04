@@ -1,0 +1,1 @@
+"# interview_notes"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:izdm/interview_notes.gitgit push -u origin main
